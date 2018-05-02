@@ -16,7 +16,7 @@
 
 2. View all the tasks:
 
-    a. Wherever the new task is created, the task will table will show updated tasks from the tasks table.
+    a. Wherever the new task is created, the task list will show updated tasks from the tasks table.
     b. This view tasks table contains action button like edit and delete for the next two modules operations.
 
 3. Edit Task
